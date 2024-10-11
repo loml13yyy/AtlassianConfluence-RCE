@@ -41,6 +41,7 @@ def startwith():
     # 修改横幅信息
     print(logo)
     print("AtlassianConfluence-RCE批量检测工具")
+    print("writen by loml13yyy")
 
 
 if __name__ == '__main__':
