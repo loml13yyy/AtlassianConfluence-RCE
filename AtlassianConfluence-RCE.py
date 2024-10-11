@@ -46,7 +46,7 @@ def startwith():
 if __name__ == '__main__':
     startwith()
     parser = argparse.ArgumentParser(
-        description="This is an any fileupload detection exploitation tool")
+        description="This is an AtlassianConfluence-RCE detection exploitation tool")
 
     # 添加命令行参数 处理这些参数
     parser.add_argument("-u", "--url", help="Specify the target URL for the attack")
